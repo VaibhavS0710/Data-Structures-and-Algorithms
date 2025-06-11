@@ -26,3 +26,10 @@ Here are the solutions to the leetcode questions
 
 
 [Solutions](https://github.com/VaibhavS0710/Data-Structures-and-Algorithms/tree/main/Binary%20Search)
+
+
+## Dynamic Programming
+Here are the solutions to the leetcode questions
+
+
+[Solutions](https://github.com/VaibhavS0710/Data-Structures-and-Algorithms/tree/main/Dynamic%20Programming)
