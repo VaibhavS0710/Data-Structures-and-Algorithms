@@ -33,3 +33,10 @@ Here are the solutions to the leetcode questions
 
 
 [Solutions](https://github.com/VaibhavS0710/Data-Structures-and-Algorithms/tree/main/Dynamic%20Programming)
+
+
+## Binary Tree
+Here are the solutions to the leetcode questions
+
+
+[Solutions](https://github.com/VaibhavS0710/Data-Structures-and-Algorithms/tree/main/Binary%20Trees)
