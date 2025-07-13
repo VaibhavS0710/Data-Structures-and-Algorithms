@@ -85,6 +85,7 @@ public class Graph {
         System.out.println("Graph representation");
         System.out.println("Ramesh");
         System.out.println("Graph is represented as an adjacency list where each vertex points to its edges.");
+        System.out.println("For example, vertex 0 has edges to vertices 1 and 2, and so on.");
 
         // //Or if you want to print all edges for all vertices:
         // System.out.println("All edges:");
